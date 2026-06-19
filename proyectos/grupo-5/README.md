@@ -34,6 +34,13 @@ El sistema se nutre de inventarios territoriales fijos de la Región del Biobío
 
 ## 🧮 3. Fundamentación Científica y Arquitectura Lógica
 
+### 🧪 Relación Química: El Tetraedro del Fuego en los Controles Dinámicos
+Mientras el modelo de Rothermel rige la física espacial del avance, los controles deslizantes (*sliders*) de la interfaz emulan la química básica del **Tetraedro del Fuego** (Combustible, Oxígeno, Calor y Reacción en Cadena):
+* **Combustible:** Modulado internamente por la densidad y continuidad de las *Plantaciones Forestales*.
+* **Calor:** Influenciado por el control de *Temperatura Ambiente*, acelerando la energía de ignición.
+* **Oxígeno:** Alimentado cinéticamente por la *Velocidad del Viento*, el cual actúa como el comburente que aviva la llama.
+* **Reacción en Cadena:** Determinada inversamente por la *Humedad Relativa*. Los escenarios de alta *Sequedad* eliminan la barrera térmica del agua, permitiendo la transferencia autosostenible de calor entre partículas vegetales.
+
 ### 🔬 Inspiración: El Modelo Matemático de Rothermel (1972)
 El diseño lógico de este simulador se basa conceptualmente en las variables del **Modelo de Propagación de Richard Rothermel ($1972$)**, la ecuación física estándar utilizada por agencias internacionales para calcular la velocidad del frente de fuego ($R$):
 
