@@ -46,16 +46,18 @@ Puedes probar nuestro Dashboard interactivo aquí:
 
 Crea una carpeta llamada .streamlit en la raíz del proyecto y dentro un archivo secrets.toml con tus credenciales:
 
-```bash
-Ini, TOML
-CNE_EMAIL = "tu_correo@ejemplo.com"
-CNE_PASSWORD = "tu_clave"
-GOOGLE_API_KEY = "tu_api_key_de_gemini"
+
+```Ini, TOML
+  CNE_EMAIL = "tu_correo@ejemplo.com"
+  CNE_PASSWORD = "tu_clave"
+  GOOGLE_API_KEY = "tu_api_key_de_gemini"
+```
 
 Ejecuta la aplicación:
 
-
-streamlit run app.py```
+  ```streamlit run app.py```
+  
+---
 
 ## 👥Integrantes del Equipo
 
